@@ -1,0 +1,8 @@
+chainlit
+llama-index
+redis
+pymilvus
+python-dotenv 
+llama-index-storage-docstore-redis
+llama-index-storage-index-store-redis
+llama-index-vector-stores-milvus
